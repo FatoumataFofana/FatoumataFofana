@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fatoumata</h1>
-<h3 align="center">I'm passionate about data and fan of SQL, PowerBI.</h3>
+<h3 align="center">I'm passionate about data and fan of SQL,Exel and PowerBI.</h3>
 
 - 🌱 I’m currently learning **Python**
 
